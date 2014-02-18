@@ -8,7 +8,8 @@ Here you will find many examples programs to help you drive your creations and t
 
 Here is a list of the projects in this repository:
 
-1. BlinkingLEDB
+1. Blinking LED
+2. BurglerAlarm
 
 This sample uses LEDs connected to pin numbers 5, 6 and 7 to illustrate how
 to control digital actuators.
