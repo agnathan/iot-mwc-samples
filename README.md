@@ -10,6 +10,7 @@ Here is a list of the projects in this repository:
 
 1. Blinking LED
 2. BurglerAlarm
+3. Blinking LED using Arduino libraries
 
 This sample uses LEDs connected to pin numbers 5, 6 and 7 to illustrate how
 to control digital actuators.

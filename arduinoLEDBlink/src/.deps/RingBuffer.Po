@@ -1,0 +1,43 @@
+RingBuffer.o: RingBuffer.cpp \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/stdc-predef.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/predefs.h \
+ RingBuffer.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-pokysdk-linux/usr/lib/i586-poky-linux/gcc/i586-poky-linux/4.8.1/include/stdint.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/stdint.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/features.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/sys/cdefs.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/wordsize.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/gnu/stubs.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/gnu/stubs-32.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/wchar.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/string.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-pokysdk-linux/usr/lib/i586-poky-linux/gcc/i586-poky-linux/4.8.1/include/stddef.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/xlocale.h
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/stdc-predef.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/predefs.h:
+
+RingBuffer.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-pokysdk-linux/usr/lib/i586-poky-linux/gcc/i586-poky-linux/4.8.1/include/stdint.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/stdint.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/features.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/sys/cdefs.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/wordsize.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/gnu/stubs.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/gnu/stubs-32.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/wchar.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/string.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-pokysdk-linux/usr/lib/i586-poky-linux/gcc/i586-poky-linux/4.8.1/include/stddef.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/xlocale.h:
