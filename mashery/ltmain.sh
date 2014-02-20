@@ -1,0 +1,1 @@
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-pokysdk-linux/usr/share/libtool/config/ltmain.sh

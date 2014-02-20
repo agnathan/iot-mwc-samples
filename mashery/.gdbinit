@@ -1,0 +1,1 @@
+set sysroot /opt/iot-devkit/1.5.1/yocto/sysroots

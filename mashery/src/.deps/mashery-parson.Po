@@ -1,0 +1,115 @@
+mashery-parson.o: parson.c \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/stdc-predef.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/predefs.h \
+ parson.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-pokysdk-linux/usr/lib/i586-poky-linux/gcc/i586-poky-linux/4.8.1/include/stddef.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/stdio.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/features.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/sys/cdefs.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/wordsize.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/gnu/stubs.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/gnu/stubs-32.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/types.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/typesizes.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/libio.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/_G_config.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/wchar.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-pokysdk-linux/usr/lib/i586-poky-linux/gcc/i586-poky-linux/4.8.1/include/stdarg.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/stdio_lim.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/sys_errlist.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/stdlib.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/waitflags.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/waitstatus.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/endian.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/endian.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/byteswap.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/byteswap-16.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/sys/types.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/time.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/sys/select.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/select.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/sigset.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/time.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/sys/sysmacros.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/pthreadtypes.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/alloca.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/stdlib-float.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/string.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/xlocale.h \
+ /opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/ctype.h
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/stdc-predef.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/predefs.h:
+
+parson.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-pokysdk-linux/usr/lib/i586-poky-linux/gcc/i586-poky-linux/4.8.1/include/stddef.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/stdio.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/features.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/sys/cdefs.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/wordsize.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/gnu/stubs.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/gnu/stubs-32.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/types.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/typesizes.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/libio.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/_G_config.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/wchar.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-pokysdk-linux/usr/lib/i586-poky-linux/gcc/i586-poky-linux/4.8.1/include/stdarg.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/stdio_lim.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/sys_errlist.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/stdlib.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/waitflags.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/waitstatus.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/endian.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/endian.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/byteswap.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/byteswap-16.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/sys/types.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/time.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/sys/select.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/select.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/sigset.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/time.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/sys/sysmacros.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/pthreadtypes.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/alloca.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/bits/stdlib-float.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/string.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/xlocale.h:
+
+/opt/iot-devkit/1.5.1/yocto/sysroots/i586-poky-linux/usr/include/ctype.h:
