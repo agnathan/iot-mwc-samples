@@ -71,9 +71,11 @@ int getWeatherInfo(void)
   CURL *curl_handle;
   FILE * fptr; 
   /* URL for the API call */
-  char *url="http://api.worldweatheronline.com/free/v1/weather.ashx?q=Barcelona&format=json&num_of_days=1&key=y3rhascwewjdtearvnujbymk";
+  char url[1024];
   CURLcode res;
   
+  /* The string "my_api_key" needs to be replaced with actual API key */
+  sprintf(url, "http://api.worldweatheronline.com/free/v1/weather.ashx?q=Barcelona&format=json&num_of_days=1&key=%s", "my_api_key");
   curl_handle = curl_easy_init();
   if(curl_handle) {
     /* First set the URL that is about to receive our POST. This URL can
